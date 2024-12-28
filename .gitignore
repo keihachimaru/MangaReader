@@ -1,0 +1,5 @@
+﻿# Ignore virtual environment
+.venv/
+
+# Ignore the folder containing the API key
+/key/
