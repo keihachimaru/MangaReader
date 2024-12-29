@@ -1,0 +1,596 @@
+[
+    [
+        {
+            "index": 0,
+            "coordinates": [
+                204,
+                0,
+                157,
+                161
+            ],
+            "image_path": "panels\\0\\panel_0.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 1,
+            "coordinates": [
+                167,
+                0,
+                154,
+                135
+            ],
+            "image_path": "panels\\0\\panel_1.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 2,
+            "coordinates": [
+                0,
+                0,
+                456,
+                501
+            ],
+            "image_path": "panels\\0\\panel_2.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 3,
+            "coordinates": [
+                468,
+                69,
+                187,
+                433
+            ],
+            "image_path": "panels\\0\\panel_3.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 4,
+            "coordinates": [
+                54,
+                521,
+                599,
+                129
+            ],
+            "image_path": "panels\\0\\panel_4.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 5,
+            "coordinates": [
+                54,
+                669,
+                299,
+                164
+            ],
+            "image_path": "panels\\0\\panel_5.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 6,
+            "coordinates": [
+                369,
+                670,
+                283,
+                296
+            ],
+            "image_path": "panels\\0\\panel_6.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 7,
+            "coordinates": [
+                54,
+                853,
+                299,
+                112
+            ],
+            "image_path": "panels\\0\\panel_7.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        }
+    ],
+    [
+        {
+            "index": 0,
+            "coordinates": [
+                0,
+                0,
+                713,
+                1024
+            ],
+            "image_path": "panels\\1\\panel_0.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        }
+    ],
+    [
+        {
+            "index": 0,
+            "coordinates": [
+                470,
+                0,
+                174,
+                124
+            ],
+            "image_path": "panels\\2\\panel_0.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 1,
+            "coordinates": [
+                398,
+                0,
+                252,
+                504
+            ],
+            "image_path": "panels\\2\\panel_1.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 2,
+            "coordinates": [
+                0,
+                0,
+                386,
+                503
+            ],
+            "image_path": "panels\\2\\panel_2.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 3,
+            "coordinates": [
+                51,
+                505,
+                597,
+                519
+            ],
+            "image_path": "panels\\2\\panel_3.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 4,
+            "coordinates": [
+                51,
+                689,
+                267,
+                161
+            ],
+            "image_path": "panels\\2\\panel_4.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 5,
+            "coordinates": [
+                50,
+                870,
+                268,
+                96
+            ],
+            "image_path": "panels\\2\\panel_5.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 6,
+            "coordinates": [
+                551,
+                914,
+                90,
+                110
+            ],
+            "image_path": "panels\\2\\panel_6.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        }
+    ],
+    [
+        {
+            "index": 0,
+            "coordinates": [
+                632,
+                0,
+                33,
+                161
+            ],
+            "image_path": "panels\\3\\panel_0.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 1,
+            "coordinates": [
+                69,
+                0,
+                645,
+                252
+            ],
+            "image_path": "panels\\3\\panel_1.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 2,
+            "coordinates": [
+                645,
+                155,
+                69,
+                81
+            ],
+            "image_path": "panels\\3\\panel_2.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 3,
+            "coordinates": [
+                69,
+                267,
+                645,
+                757
+            ],
+            "image_path": "panels\\3\\panel_3.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        }
+    ],
+    [
+        {
+            "index": 0,
+            "coordinates": [
+                0,
+                0,
+                714,
+                1024
+            ],
+            "image_path": "panels\\4\\panel_0.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        }
+    ],
+    [
+        {
+            "index": 0,
+            "coordinates": [
+                0,
+                0,
+                719,
+                1024
+            ],
+            "image_path": "panels\\5\\panel_0.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        }
+    ],
+    [
+        {
+            "index": 0,
+            "coordinates": [
+                0,
+                0,
+                420,
+                625
+            ],
+            "image_path": "panels\\6\\panel_0.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 1,
+            "coordinates": [
+                436,
+                74,
+                215,
+                324
+            ],
+            "image_path": "panels\\6\\panel_1.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 2,
+            "coordinates": [
+                334,
+                384,
+                68,
+                100
+            ],
+            "image_path": "panels\\6\\panel_2.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 3,
+            "coordinates": [
+                436,
+                418,
+                215,
+                200
+            ],
+            "image_path": "panels\\6\\panel_3.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 4,
+            "coordinates": [
+                239,
+                638,
+                412,
+                386
+            ],
+            "image_path": "panels\\6\\panel_4.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 5,
+            "coordinates": [
+                55,
+                640,
+                169,
+                326
+            ],
+            "image_path": "panels\\6\\panel_5.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        }
+    ],
+    [
+        {
+            "index": 0,
+            "coordinates": [
+                0,
+                0,
+                716,
+                1024
+            ],
+            "image_path": "panels\\7\\panel_0.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        }
+    ],
+    [
+        {
+            "index": 0,
+            "coordinates": [
+                52,
+                71,
+                414,
+                367
+            ],
+            "image_path": "panels\\8\\panel_0.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 1,
+            "coordinates": [
+                480,
+                73,
+                168,
+                366
+            ],
+            "image_path": "panels\\8\\panel_1.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 2,
+            "coordinates": [
+                52,
+                457,
+                594,
+                162
+            ],
+            "image_path": "panels\\8\\panel_2.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 3,
+            "coordinates": [
+                51,
+                638,
+                299,
+                97
+            ],
+            "image_path": "panels\\8\\panel_3.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 4,
+            "coordinates": [
+                364,
+                639,
+                281,
+                385
+            ],
+            "image_path": "panels\\8\\panel_4.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 5,
+            "coordinates": [
+                0,
+                754,
+                349,
+                270
+            ],
+            "image_path": "panels\\8\\panel_5.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 6,
+            "coordinates": [
+                172,
+                897,
+                93,
+                107
+            ],
+            "image_path": "panels\\8\\panel_6.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 7,
+            "coordinates": [
+                0,
+                937,
+                165,
+                87
+            ],
+            "image_path": "panels\\8\\panel_7.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        }
+    ],
+    [
+        {
+            "index": 0,
+            "coordinates": [
+                403,
+                70,
+                267,
+                279
+            ],
+            "image_path": "panels\\9\\panel_0.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 1,
+            "coordinates": [
+                68,
+                71,
+                320,
+                403
+            ],
+            "image_path": "panels\\9\\panel_1.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 2,
+            "coordinates": [
+                402,
+                370,
+                268,
+                103
+            ],
+            "image_path": "panels\\9\\panel_2.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 3,
+            "coordinates": [
+                70,
+                492,
+                601,
+                180
+            ],
+            "image_path": "panels\\9\\panel_3.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 4,
+            "coordinates": [
+                354,
+                693,
+                317,
+                130
+            ],
+            "image_path": "panels\\9\\panel_4.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 5,
+            "coordinates": [
+                71,
+                694,
+                268,
+                279
+            ],
+            "image_path": "panels\\9\\panel_5.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 6,
+            "coordinates": [
+                355,
+                843,
+                316,
+                129
+            ],
+            "image_path": "panels\\9\\panel_6.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        }
+    ],
+    [
+        {
+            "index": 0,
+            "coordinates": [
+                0,
+                0,
+                352,
+                457
+            ],
+            "image_path": "panels\\10\\panel_0.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 1,
+            "coordinates": [
+                0,
+                0,
+                88,
+                61
+            ],
+            "image_path": "panels\\10\\panel_1.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 2,
+            "coordinates": [
+                365,
+                73,
+                282,
+                135
+            ],
+            "image_path": "panels\\10\\panel_2.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 3,
+            "coordinates": [
+                366,
+                228,
+                281,
+                228
+            ],
+            "image_path": "panels\\10\\panel_3.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 4,
+            "coordinates": [
+                52,
+                477,
+                596,
+                227
+            ],
+            "image_path": "panels\\10\\panel_4.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 5,
+            "coordinates": [
+                318,
+                723,
+                330,
+                245
+            ],
+            "image_path": "panels\\10\\panel_5.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 6,
+            "coordinates": [
+                53,
+                724,
+                250,
+                105
+            ],
+            "image_path": "panels\\10\\panel_6.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        },
+        {
+            "index": 7,
+            "coordinates": [
+                54,
+                849,
+                250,
+                119
+            ],
+            "image_path": "panels\\10\\panel_7.png",
+            "text": "You may only perform this action upto maximum 180 number of times within 3600 seconds"
+        }
+    ]
+]
